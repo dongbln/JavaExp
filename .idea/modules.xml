@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IteratorExp/IteratorExp.iml" filepath="$PROJECT_DIR$/IteratorExp/IteratorExp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaExp.iml" filepath="$PROJECT_DIR$/.idea/JavaExp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" />
     </modules>
   </component>
 </project>
