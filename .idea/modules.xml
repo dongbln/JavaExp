@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/IteratorExp/IteratorExp.iml" filepath="$PROJECT_DIR$/IteratorExp/IteratorExp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaExp.iml" filepath="$PROJECT_DIR$/.idea/JavaExp.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" />
